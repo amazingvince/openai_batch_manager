@@ -1,0 +1,6 @@
+httpx
+asyncio
+tqdm
+python-dotenv
+tenacity
+click
